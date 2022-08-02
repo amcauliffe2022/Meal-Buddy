@@ -1,2 +1,0 @@
-Important notice of repeat error:
-If the program repeatly fails to connect to the database, that means that our server is down. If that happens then you should be able to run the SQL file in your own SQL editor to have a temporary database with example information.
